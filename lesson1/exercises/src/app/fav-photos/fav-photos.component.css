@@ -1,11 +1,19 @@
 h3 {
-   color: brown;
+    color: brown;
 }
 
-img {
-
-}
+img {}
 
 .photos {
-   text-align: center;
+    text-align: center;
+}
+
+#bitcoin {
+    width: 10em;
+    height: 10em;
+}
+
+#duck {
+    width: 20%;
+    height: 20%;
 }
